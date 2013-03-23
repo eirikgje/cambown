@@ -1,0 +1,11 @@
+s_o_l = 299792458.0 #m/s
+mperMpc = 3.08568025e22 #m/Mpc
+JpereV  = 1.60217646e-19 #J/eV
+sigma_T      = 6.652462e-29 #m^-2
+G_grav       = 6.67258e-11 # m^3 kg ^-1 s^-2
+m_H          = 1.673534e-27 # kg ^ -1
+epsilon_0    = 13.605698e0 * JpereV # J
+m_e          = 9.10938188e-31 # kg ^-1
+alpha        = 7.29735308e-3
+k_b          = 1.3806503e-23 # J/K [m^2kg/s^2K]
+hbar         = 1.05457148e-34 # Js [m^2kg/s]
